@@ -1,6 +1,9 @@
+---
+title: HTML Game
+---
 # HTML Game
 
-[Xiao Shang](https://github.com/ishx/)
+[Xiao Shang](http://ishx.io)
 
 Learn how to make games, using nothing but HTML and JavaScript.
 
@@ -45,7 +48,7 @@ Table of contents
     - [7.2 Change Images](#72-change-images)
     - [7.3 Background Images](#73-background-images)
     - [7.4 Moving Background](#74-moving-background)
-    - [7.5 Background Loop](#75-background-loop)
+        - [7.5 Background Loop](#75-background-loop)
 - [8 Game Sound](#8-game-sound)
     - [8.1 How to Add Sounds?](#81-how-to-add-sounds)
     - [8.2 Background Music](#82-background-music)
@@ -63,8 +66,6 @@ Table of contents
     - [12.1 How to Move Objects?](#121-how-to-move-objects)
     - [12.2 Making Turns](#122-making-turns)
     - [12.3 Use the Keyboard](#123-use-the-keyboard)
-- [Contributing](#contributing)
-- [License](#license)
 
 <!-- /MarkdownTOC -->
 
@@ -1572,21 +1573,3 @@ function component(width, height, color, x, y) {
 ### 12.3 Use the Keyboard
 
 How does the red square move when using the keyboard? Instead of moving up and down, and from side to side, the red square moves forward when you use the "up" arrow, and turns left and right when pressing the left and right arrows.
-
-
-## Contributing
-
-You are most welcome to contribute to htmlgame development by [forking this repository on GitHub](https://github.com/ishx/htmlgame) and sending pull requests, or filing bug reports at the [issues page](http://github.com/ishx/htmlgame/issues). If it is a big feature, you might want to start an Issue first to make sure it's something that will be accepted.  If it involves code, please also write tests for it.
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">
-    <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" />
-</a>
-
-The source code for the site is licensed under the MIT license, which you can find in the [LICENSE](https://github.com/ishx/htmlgame/blob/master/LICENSE) file.
-
-All graphical assets are licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
-
-
-
